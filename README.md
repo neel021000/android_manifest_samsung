@@ -28,4 +28,4 @@ It will show you Screen like this
 * Chose your desire recovery and hit that number and it will make everything automatically
 
 ***
-<li> Many Thnx to RealPruhs<a href="https://github.com/davinash97">DAvinash97</a>,and<a href="https://github.com/Astrako">Astrako</a>, for their realtime help</li>
+<li> Many Thnx to RealPruhs <a href="https://github.com/davinash97">DAvinash97</a>, and<a href="https://github.com/Astrako">Astrako</a>, for their realtime help</li>
