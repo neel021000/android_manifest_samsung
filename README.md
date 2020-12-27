@@ -10,30 +10,29 @@
 
   - Go to the Desktop
   - open terminal  
-```bash
-$ git clone your desire repo 
-```
+  - git clone your desire repo 
   - Open the folder {android_manifest_samsung}
   - Follow Given commands
 
-```bash
-$ chmod a+x neel.sh 
-$ . neel.sh
 ```
-It will show you Screen like this
+chmod a+x neel.sh 
+. neel.sh
+```
+### It will show you Screen like this
+
 <div align="center">
     <img src="https://i.imgur.com/OGTSuCJ.png"/>
 </div>
 
-* Chose your desire recovery and hit that number and it will make everything automatically
+  - Chose your desire recovery and hit that number and it will make everything automatically
 
 # Available devices
 
 ### M30sdd
-  - For M30s copy paste this in your terminal ```git clone https://github.com/neel021000/android_manifest_samsung.git -b M30sdd```
+  - For M30s ```git clone https://github.com/neel021000/android_manifest_samsung.git -b M30sdd```
 
 ### M31nsxx
-  - For M30s copy paste this in your terminal ```git clone https://github.com/neel021000/android_manifest_samsung.git -b M31nsxx```
+  - For M30s ```git clone https://github.com/neel021000/android_manifest_samsung.git -b M31nsxx```
    
 ***
-<li> Many Thnx to RealPruhs <a href="https://github.com/davinash97">DAvinash97</a>, and <a href="https://github.com/Astrako">Astrako</a>, for their realtime help</li>
+<li> Many Thnx to RealPruhs <a href="https://github.com/davinash97">DAvinash97</a>, and <a href="https://github.com/Astrako">Astrako</a> for their realtime help</li>
