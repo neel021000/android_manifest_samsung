@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a>Auto-script for Samsung Galaxy M30s</a>
+  <a>Auto-script for Samsung Galaxy Devices</a>
   <br>
    By neel021000
   <br>
@@ -11,9 +11,9 @@
   - Go to the Desktop
   - open terminal  
 ```bash
-$ git clone https://github.com/neel021000/android_manifest_samsung_m30sdd.git 
+$ git clone your desire repo 
 ```
-  - Open the folder {android_manifest_samsung_m30sdd}
+  - Open the folder {android_manifest_samsung}
   - Follow Given commands
 
 ```bash
@@ -27,5 +27,13 @@ It will show you Screen like this
 
 * Chose your desire recovery and hit that number and it will make everything automatically
 
+# Available devices
+
+### M30sdd
+  - For M30s copy paste this in your terminal ```git clone https://github.com/neel021000/android_manifest_samsung.git -b M30sdd```
+
+### M31nsxx
+  - For M30s copy paste this in your terminal ```git clone https://github.com/neel021000/android_manifest_samsung.git -b M31nsxx```
+   
 ***
 <li> Many Thnx to RealPruhs <a href="https://github.com/davinash97">DAvinash97</a>, and <a href="https://github.com/Astrako">Astrako</a>, for their realtime help</li>
