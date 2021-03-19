@@ -33,6 +33,10 @@ chmod a+x neel.sh
 
 ### M31nsxx
   - For M30s ```git clone https://github.com/neel021000/android_manifest_samsung.git -b M31nsxx```
+
+### 7870
+  - For 7870 ```git clone https://github.com/neel021000/android_manifest_samsung.git -b 7870```
+
    
 ***
 <li> Many Thnx to RealPruhs <a href="https://github.com/davinash97">DAvinash97</a>, and <a href="https://github.com/Astrako">Astrako</a> for their realtime help</li>
